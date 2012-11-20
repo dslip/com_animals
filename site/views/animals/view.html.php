@@ -8,7 +8,7 @@ jimport('joomla.application.component.view');
 /**
  * HTML View class for the Animals Component
  */
-class AnimalsViewAnimals extends JView
+class AnimalsViewAnimals extends JViewLegacy
 {
         // Overwriting JView display method
         function display($tpl = null) 

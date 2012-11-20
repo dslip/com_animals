@@ -27,7 +27,9 @@
         <files folder="site">
                 <filename>index.html</filename>
                 <filename>animals.php</filename>
-        </files>
+                <filename>controller.php</filename>
+                <folder>views</folder>
+			</files>
  
         <administration>
                 <!-- Administration Menu Section -->
